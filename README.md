@@ -27,8 +27,8 @@ You can of course also choose your own background!
 
 ## Attribution
 
-> The OS icons were take from [rEFInd-glassy][glassy] which is using icons from [munlik's repository][munlik].
-
+> The OS icons were copied from [rEFInd-glassy][glassy] which is using icons from [munlik's repository][munlik].
+>
 > Background was made by [your's truly][maelstrom].
 
 [glassy]: https://github.com/Pr0cella/rEFInd-glassy#attributions
