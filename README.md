@@ -29,7 +29,7 @@ You can of course also choose your own background!
 
 > The OS icons were copied from [rEFInd-glassy][glassy] which is using icons from [munlik's repository][munlik].
 >
-> Background was made by [your's truly][maelstrom].
+> Background was made by [yours truly][maelstrom].
 
 [glassy]: https://github.com/Pr0cella/rEFInd-glassy#attributions
 [munlik]: https://github.com/munlik/refind-theme-regular
